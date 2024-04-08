@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">AND103_lab7</string>
+    <string-array name="spinner_price">
+        <item>Ascending</item>
+        <item>Decrease</item>
+
+    </string-array>
+</resources>
